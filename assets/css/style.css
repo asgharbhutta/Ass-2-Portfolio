@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+/* Header/Nav Style */
+header {
+    display: flex;
+    padding: 10px 0;
+    background: rgb(7, 7, 58);
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header h5 {
+    font-size: 34px;
+    background-color: lightblue;
+    color:rgb(7, 7, 58);
+    margin: 0;
+    padding: 5px 5px 5px 50px;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    padding:15px 15px;
+    font-size: 16px;
+}
+
+header nav ul li a{
+    color: lightblue;
+    border-bottom: 2px solid lightblue;
+    padding:5px 15px;
+    margin: 5px;
+}
+header nav ul li a:hover{
+    color: rgb(7, 7, 58);
+    border-bottom: 2px solid rgb(7, 7, 58);
+    background-color: lightblue;
+    padding:5px 15px;
+    margin: 5px;
+}
+
+/* End of Header/Nav Styles /*

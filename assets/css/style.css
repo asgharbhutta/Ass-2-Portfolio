@@ -1,3 +1,8 @@
+:root {
+    --lightblue: lightblue;
+    --darkblue: rgb(7, 7, 58);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -6,13 +11,20 @@
 
 body {
     font-family: Helvetica, Arial, sans-serif;
+    background-color: rgb(221, 241, 247);
   }
+
+.section-title {
+    margin: 20px 25px 55px 100px;
+    font-size: 50px;
+    text-align: right;
+}  
 
 /* Header/Nav Style */
 header {
     display: flex;
     padding: 10px 0;
-    background: rgb(7, 7, 58);
+    background: var(--darkblue);
     justify-content: space-between;
     flex-wrap: wrap;
 }
@@ -23,8 +35,8 @@ header a {
 
 header h5 {
     font-size: 34px;
-    background-color: lightblue;
-    color:rgb(7, 7, 58);
+    background-color: var(--lightblue);
+    color:var(--darkblue);
     margin: 0;
     padding: 5px 5px 5px 50px;
 }
@@ -40,17 +52,75 @@ header nav ul {
 }
 
 header nav ul li a{
-    color: lightblue;
-    border-bottom: 2px solid lightblue;
+    color: var(--lightblue);
+    border-bottom: 2px solid var(--lightblue);
     padding:5px 15px;
     margin: 5px;
 }
 header nav ul li a:hover{
-    color: rgb(7, 7, 58);
-    border-bottom: 2px solid rgb(7, 7, 58);
-    background-color: lightblue;
+    color: var(--darkblue);
+    border-bottom: 2px solid var(--darkblue);
+    background-color: var(--lightblue);
     padding:5px 15px;
     margin: 5px;
 }
 
-/* End of Header/Nav Styles /*
+/* End of Header/Nav Styles */
+
+/* Start of Hero/Jumbotron Styles */
+.hero{
+    background-image: url("../images/Hero.jpg");
+    height: 300px;
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.hero h4 {
+    background-color: var(--lightblue);
+    padding: 10px;
+    margin: 0 60px 15px 0;
+    font-size: 30px;
+    color: var(--darkblue);
+}
+
+/* End of Hero/Jumbtron Styles */
+
+/* Start of About Me Styles */
+.aboutme {
+    display: flex;
+}
+
+.aboutme p {
+    margin: 25px 0 25px 0;
+    padding-left: 25px;
+    line-height: 1.4;
+    border-left: 5px solid var(--darkblue);
+}
+
+/* End of About Me Styles */
+
+/* Start of Work Styles */
+.work {
+    display: flex;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px;
+    grid-gap: 10px;
+    border-left: 5px solid var(--darkblue);
+    padding-left: 25px;
+    margin-left: 20px;
+}
+.grid-item {
+    border: 2px solid var(--lightblue);
+    background-color: var(--lightblue);
+}
+
+.grid-item.box1 {
+
+}

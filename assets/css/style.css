@@ -205,10 +205,27 @@ header nav ul li a:hover{
 .contact ul {
     display:flex;
     flex-wrap: wrap;
-    text-decoration: none;
     list-style: none;
     border-left: 5px solid var(--darkblue);
     align-items: center;
     justify-content: space-evenly;
     width: 100%;
+}
+
+.contact ul li a {
+    text-decoration: none;
+    color: var(--darkblue);
+}
+
+.contact ul li {
+    font-size: 20px;
+    border-bottom: 3px solid var(--darkblue);
+    padding-bottom: 5px;
+}
+
+.contact ul li:hover, .contact ul li a:hover {
+    color: var(--lightblue);
+    background: var(--darkblue);
+    padding: 5px;
+    transition: 0.5s ease-in-out;
 }

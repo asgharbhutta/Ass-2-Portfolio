@@ -66,6 +66,7 @@ header nav ul li a:hover{
     background-color: var(--lightblue);
     padding:5px 15px;
     margin: 5px;
+    transition: 0.3s ease-in-out;
 }
 
 /* End of Header/Nav Styles */
@@ -180,7 +181,7 @@ header nav ul li a:hover{
     padding: 5px 5px;
     background-color: var(--lightblue);
     margin-bottom: 15px;
-    width: 150px;
+    width: 145px;
     opacity: 1;
 }
 

@@ -9,8 +9,7 @@ Now on to the actual project documentation
 - LED Wall does not link, we have not done that project yet
 - Calculator does not link, we have not done that project yet
 - Pastel Puzzles does not link, we have not done that project yet either
-**
-- Run Buddy does link, that was the project we created in the first two weeks
+Run Buddy does link, that was the project we created in the first two weeks
 
 # Purpose of Project
 We were to utilize advanced CSS concepts to create a professional portfolio that we can build upon in the next few months to show employers that we are ready to be hired.  Not only that but as we learn new concepts those will be integrated into this professional portfolio.

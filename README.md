@@ -1,5 +1,5 @@
 # Assignment #2 - Advanced CSS by Asghar Bhutta
-Discalimer: This assignment was to utilize all the concepts we apparently learned during our 3rd week of class time and to be honest most of these concepts were learned by myself due to the instructor and TAs lack of knowledge sharing.
+Discalimer: This assignment was to utilize all the concepts we apparently learned during our 3rd week of class time and to be honest most of these concepts were learned by myself, the instructor and TAs this week just dropped the ball.
 
 Now on to the actual project documentation
 

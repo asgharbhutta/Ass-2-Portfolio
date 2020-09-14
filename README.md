@@ -9,6 +9,7 @@ Now on to the actual project documentation
 - LED Wall does not link, we have not done that project yet
 - Calculator does not link, we have not done that project yet
 - Pastel Puzzles does not link, we have not done that project yet either
+
 Run Buddy does link, that was the project we created in the first two weeks
 
 # Purpose of Project

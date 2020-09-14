@@ -9,6 +9,8 @@ Now on to the actual project documentation
 - LED Wall does not link, we have not done that project yet
 - Calculator does not link, we have not done that project yet
 - Pastel Puzzles does not link, we have not done that project yet either
+- No picture of myself (privacy for obvious reasons)
+- About Me section text has been fabricated, not sure what to write here to get an employers attention but eventually I will fill this out
 
 Run Buddy does link, that was the project we created in the first two weeks
 
@@ -18,3 +20,4 @@ We were to utilize advanced CSS concepts to create a professional portfolio that
 - Flexbox was used throughout the entire site to ensure the site looks correct when elements are in a line and when elements need to be aligned.
 - Media Queries were used to showcase 3 different screen sizes that are common throughout this digital world making them Responsive when those pixel widths are reached.
 - CSS Animations were used to hover over navigation elements, work elements and the contact section to showcase their usage.
+- As per the acceptance criteria the first large application does not exist, please just use Run Buddy in it's place while grading.

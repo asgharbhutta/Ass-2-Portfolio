@@ -4,11 +4,12 @@ Discalimer: This assignment was to utilize all the concepts we apparently learne
 Now on to the actual project documentation
 
 # Things to know that do not work but were intended so:
-Resume link does not link to an actual resume
-Surf Report does not link, we have not done that project yet
-LED Wall does not link, we have not done that project yet
-Calculator does not link, we have not done that project yet
-Pastel Puzzles does not link, we have not done that project yet either
+- Resume link does not link to an actual resume
+- Surf Report does not link, we have not done that project yet
+- LED Wall does not link, we have not done that project yet
+- Calculator does not link, we have not done that project yet
+- Pastel Puzzles does not link, we have not done that project yet either
+**
 - Run Buddy does link, that was the project we created in the first two weeks
 
 # Purpose of Project
